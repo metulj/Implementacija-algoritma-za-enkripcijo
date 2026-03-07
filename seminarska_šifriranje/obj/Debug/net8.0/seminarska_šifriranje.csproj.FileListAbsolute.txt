@@ -1,0 +1,15 @@
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\seminarska_šifriranje.GeneratedMSBuildEditorConfig.editorconfig
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\seminarska_šifriranje.AssemblyInfoInputs.cache
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\seminarska_šifriranje.AssemblyInfo.cs
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\seminarska_šifriranje.csproj.CoreCompileInputs.cache
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\seminarska_šifriranje.sourcelink.json
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\bin\Debug\net8.0\seminarska_šifriranje.exe
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\bin\Debug\net8.0\seminarska_šifriranje.deps.json
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\bin\Debug\net8.0\seminarska_šifriranje.runtimeconfig.json
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\bin\Debug\net8.0\seminarska_šifriranje.dll
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\bin\Debug\net8.0\seminarska_šifriranje.pdb
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\seminarska_šifriranje.dll
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\refint\seminarska_šifriranje.dll
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\seminarska_šifriranje.pdb
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\seminarska_šifriranje.genruntimeconfig.cache
+C:\vss\program1\VAJE\seminarska_šifriranje\seminarska_šifriranje\obj\Debug\net8.0\ref\seminarska_šifriranje.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "seminarska_šifriranje/1.0.0": {
+        "runtime": {
+          "seminarska_šifriranje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seminarska_šifriranje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
