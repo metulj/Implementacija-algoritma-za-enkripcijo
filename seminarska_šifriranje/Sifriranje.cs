@@ -13,19 +13,21 @@ namespace seminarska_šifriranje
         public int shift;       //zamik črk
         public string text;     //besedilo, ki ga hočemo šifrirati
         public int stCrk;       //dolžina besedila
-        
+       
         public void encryption(string text, int shift)       //ustvaril metodo za izvanje šifriranje
         {
             this.shift = shift;     //povezal spremenljivke
             this.text = text.ToUpper();          //spremenim besedilo v velike začetnnice
             stCrk = text.Length;                //preštejem številko simbolov v besedilu
             char[] crke = this.text.ToCharArray();   //postavitev funkcije za stetje
-           
-
-            char[] vnesBesedilo = new char[stCrk];  //TABELA
-
             
-            bool j= false;
+            
+                shift=shift % abeceda.Length;
+            
+            
+
+
+
             for (int i = 0; i < stCrk; i++)
             {
                 int l = 0;
@@ -33,23 +35,26 @@ namespace seminarska_šifriranje
                 {
                     
                     
-                    if (crke[i] == abeceda[l])
+                    if (crke[i] == abeceda[l])                      //primerja vneseno črko z črko v tebeli abeceda
                     {
-                        if ((l + shift) >= abeceda.Length)
-                        {
-                            l = 0;
 
-                            Console.Write(abeceda[l]);
+
+                        if ((l + shift) >= (abeceda.Length))        //če je seštevek črke in preika večji od dolžine tabele gre znova, k začetni črki
+                        {
+                            
+
+                            Console.Write(abeceda[(l + shift) % abeceda.Length]);                //izpiše številko črke z zamiko 
+                            
+                        
                         }
                         else
                         {
-                            Console.Write(abeceda[l+shift]);
+                            Console.Write(abeceda[l + shift]);          //izpiši številko črke z zamikom
                         }
-                        
                         break;
 
                     }
-                    l++;
+                    l++;                   // poveča l za 1. Za premik črke v tabeli
                 }
                 
             }
@@ -57,3 +62,4 @@ namespace seminarska_šifriranje
         }
     }
 }
+

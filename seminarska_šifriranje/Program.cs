@@ -7,15 +7,26 @@ namespace seminarska_šifriranje
     {
         static void Main(string[] args)
         {
-            Sifriranje besedilo = new Sifriranje();
-            Tabela tabela= new Tabela();
+           
+            Sifriranje sifrtitanej = new Sifriranje();
+            Tabela tabela = new Tabela();
             Console.Write("Vpiši besedo, ki jo želiš šifrirati: ");     //vpišem besedilo, ki ga hočem kriptirat
-            besedilo.text = Console.ReadLine();
-            besedilo.encryption(besedilo.text,2);
+            sifrtitanej.text = Console.ReadLine();
+            Console.Write("Vpiši šifrirni ključ: ");
+            sifrtitanej.shift= int.Parse(Console.ReadLine());
+            sifrtitanej.encryption(sifrtitanej.text, sifrtitanej.shift);
             Console.WriteLine();
-            Console.WriteLine(besedilo.text);
-            Console.WriteLine(besedilo.stCrk);
-            
+         
+
+            Desifriranje desifriranje=new Desifriranje();
+            Console.Write("Vpiši besedo, ki jo želiš dešifrirta: ");     //vpišem besedilo, ki ga hočem kriptirat
+            desifriranje.text = Console.ReadLine();
+            Console.Write("Vpiši šifrirni ključ: ");
+            desifriranje.shift = int.Parse(Console.ReadLine());
+            desifriranje.decrypt(desifriranje.text, desifriranje.shift);
+            Console.WriteLine();
+           
+
 
 
         }

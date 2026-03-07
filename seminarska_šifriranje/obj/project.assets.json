@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vss\\program1\\VAJE\\seminarska_šifriranje\\seminarska_šifriranje\\seminarska_šifriranje.csproj",
+      "projectUniqueName": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_šifriranje\\seminarska_šifriranje.csproj",
       "projectName": "seminarska_šifriranje",
-      "projectPath": "C:\\vss\\program1\\VAJE\\seminarska_šifriranje\\seminarska_šifriranje\\seminarska_šifriranje.csproj",
+      "projectPath": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_šifriranje\\seminarska_šifriranje.csproj",
       "packagesPath": "C:\\Users\\nix\\.nuget\\packages\\",
-      "outputPath": "C:\\vss\\program1\\VAJE\\seminarska_šifriranje\\seminarska_šifriranje\\obj\\",
+      "outputPath": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_šifriranje\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
