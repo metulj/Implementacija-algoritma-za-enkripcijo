@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\vss\\program1\\seminarska_sifriranje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2BA43D1-2E08-6D7B-D875-06F6803DA37F}|seminarska_\u0161ifriranje\\seminarska_\u0161ifriranje.csproj|c:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\sifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2BA43D1-2E08-6D7B-D875-06F6803DA37F}|seminarska_\u0161ifriranje\\seminarska_\u0161ifriranje.csproj|solutionrelative:seminarska_\u0161ifriranje\\sifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2BA43D1-2E08-6D7B-D875-06F6803DA37F}|seminarska_\u0161ifriranje\\seminarska_\u0161ifriranje.csproj|c:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\desifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2BA43D1-2E08-6D7B-D875-06F6803DA37F}|seminarska_\u0161ifriranje\\seminarska_\u0161ifriranje.csproj|solutionrelative:seminarska_\u0161ifriranje\\desifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BA43D1-2E08-6D7B-D875-06F6803DA37F}|seminarska_\u0161ifriranje\\seminarska_\u0161ifriranje.csproj|c:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\sifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BA43D1-2E08-6D7B-D875-06F6803DA37F}|seminarska_\u0161ifriranje\\seminarska_\u0161ifriranje.csproj|solutionrelative:seminarska_\u0161ifriranje\\sifriranje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2BA43D1-2E08-6D7B-D875-06F6803DA37F}|seminarska_\u0161ifriranje\\seminarska_\u0161ifriranje.csproj|c:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,31 +42,30 @@
               "RelativeToolTip": "seminarska_\u0161ifriranje\\Tabela.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:04:40.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:04:40.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Sifriranje.cs",
               "DocumentMoniker": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\Sifriranje.cs",
               "RelativeDocumentMoniker": "seminarska_\u0161ifriranje\\Sifriranje.cs",
               "ToolTip": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\Sifriranje.cs",
               "RelativeToolTip": "seminarska_\u0161ifriranje\\Sifriranje.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwC4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T15:04:50.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Desifriranje.cs",
               "DocumentMoniker": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\Desifriranje.cs",
               "RelativeDocumentMoniker": "seminarska_\u0161ifriranje\\Desifriranje.cs",
               "ToolTip": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\Desifriranje.cs",
               "RelativeToolTip": "seminarska_\u0161ifriranje\\Desifriranje.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T15:05:03.395Z",
               "EditorCaption": ""

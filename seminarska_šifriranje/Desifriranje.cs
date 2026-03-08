@@ -20,37 +20,39 @@ namespace seminarska_šifriranje
             stCrk = text.Length;                //preštejem številko simbolov v besedilu
             char[] crke = this.text.ToCharArray();   //postavitev funkcije za stetje
           
-                shift = shift % abeceda.Length;
-            
-           
+                
 
-            for (int i = 0; i < stCrk; i++)
-            {
-                int l = 0;
-                while (true)                      //primerjanje črk in izpis če je prav SAMO TEST
+            if (this.shift >= 1 && this.shift < 26)
+            {shift = shift % abeceda.Length;
+
+                for (int i = 0; i < stCrk; i++)
                 {
-
-
-                    if (crke[i] == abeceda[l])                      //primerja vneseno črko z črko v tebeli abeceda
+                    int l = 0;
+                    while (true)                      //primerjanje črk in izpis če je prav SAMO TEST
                     {
 
-                        if ((l - shift) < 0)        //če je seštevek črke in preika večji od dolžine tabele gre znova, k začetni črki
-                        {
-                            int znova =((abeceda.Length)+(l-shift));
 
-                            Console.Write(abeceda[znova]);                //izpiše številko črke z zamiko 
-                        }
-                        else
+                        if (crke[i] == abeceda[l])                      //primerja vneseno črko z črko v tebeli abeceda
                         {
-                            Console.Write(abeceda[l - shift]);          //izpiši številko črke z zamikom
-                        }
-                        break;
 
+                            if ((l - shift) < 0)        //če je seštevek črke in preika večji od dolžine tabele gre znova, k začetni črki
+                            {
+                                int znova = ((abeceda.Length) + (l - shift));
+
+                                Console.Write(abeceda[znova]);                //izpiše številko črke z zamiko 
+                            }
+                            else
+                            {
+                                Console.Write(abeceda[l - shift]);          //izpiši številko črke z zamikom
+                            }
+                            break;
+
+                        }
+                        l++;                   // poveča l za 1. Za premik črke v tabeli
                     }
-                    l++;                   // poveča l za 1. Za premik črke v tabeli
+
+
                 }
-
-
             }
         }
     }

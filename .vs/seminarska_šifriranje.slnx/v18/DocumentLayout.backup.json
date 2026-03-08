@@ -42,8 +42,7 @@
               "RelativeToolTip": "seminarska_\u0161ifriranje\\Tabela.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T15:04:40.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T15:04:40.225Z"
             },
             {
               "$type": "Document",
@@ -51,9 +50,9 @@
               "Title": "Sifriranje.cs",
               "DocumentMoniker": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\Sifriranje.cs",
               "RelativeDocumentMoniker": "seminarska_\u0161ifriranje\\Sifriranje.cs",
-              "ToolTip": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\Sifriranje.cs",
-              "RelativeToolTip": "seminarska_\u0161ifriranje\\Sifriranje.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwBcAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\Sifriranje.cs*",
+              "RelativeToolTip": "seminarska_\u0161ifriranje\\Sifriranje.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T15:04:50.746Z",
               "EditorCaption": ""
@@ -66,7 +65,7 @@
               "RelativeDocumentMoniker": "seminarska_\u0161ifriranje\\Desifriranje.cs",
               "ToolTip": "C:\\vss\\program1\\seminarska_sifriranje\\seminarska_\u0161ifriranje\\Desifriranje.cs",
               "RelativeToolTip": "seminarska_\u0161ifriranje\\Desifriranje.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T15:05:03.395Z",
               "EditorCaption": ""

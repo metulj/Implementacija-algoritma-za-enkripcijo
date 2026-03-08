@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("seminarska_šifriranje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+046134e0ac1dd97439a29988129536651e225e37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb8682194b439aaaccf4c089e48fc07e0213e93d")]
 [assembly: System.Reflection.AssemblyProductAttribute("seminarska_šifriranje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("seminarska_šifriranje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
